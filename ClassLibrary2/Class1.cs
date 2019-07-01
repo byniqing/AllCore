@@ -10,5 +10,11 @@ namespace ClassLibrary2
         /*
          https://www.cnblogs.com/landeanfen/p/4816706.html 
          */
+
+        #region Swagger配置步骤
+        /*
+         1：下载nuget包：Swashbuckle.AspNetCore
+         */
+        #endregion
     }
 }

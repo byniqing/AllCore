@@ -6,3 +6,4 @@ C:\study\core\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.AssemblyInfoIn
 C:\study\core\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.AssemblyInfo.cs
 C:\study\core\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.dll
 C:\study\core\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.pdb
+C:\study\core\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.csprojAssemblyReference.cache
