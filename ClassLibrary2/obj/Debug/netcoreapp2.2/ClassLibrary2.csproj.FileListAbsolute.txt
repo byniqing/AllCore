@@ -1,0 +1,8 @@
+C:\study\core\ClassLibrary2\bin\Debug\netcoreapp2.2\ClassLibrary2.deps.json
+C:\study\core\ClassLibrary2\bin\Debug\netcoreapp2.2\ClassLibrary2.dll
+C:\study\core\ClassLibrary2\bin\Debug\netcoreapp2.2\ClassLibrary2.pdb
+C:\study\core\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\study\core\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.AssemblyInfoInputs.cache
+C:\study\core\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.AssemblyInfo.cs
+C:\study\core\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.dll
+C:\study\core\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.pdb
