@@ -13,7 +13,20 @@ namespace ClassLibrary2
 
         #region Swagger配置步骤
         /*
-         1：下载nuget包：Swashbuckle.AspNetCore
+         1：下载nuget包：
+
+         Swashbuckle.Aspnetcore：用于生成Swagger文档
+
+        Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer：用户版本控制
+
+         */
+        #endregion
+
+        #region Nlog配置
+        /*
+         下载nuget包：
+         NLog.Web.AspNetCore
+
          */
         #endregion
     }

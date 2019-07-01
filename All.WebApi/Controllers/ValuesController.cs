@@ -8,6 +8,7 @@ namespace All.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //[ApiExplorerSettings(IgnoreApi = true)] //隐藏该控制器接口
     public class ValuesController : ControllerBase
     {
         // GET api/values
@@ -38,6 +39,7 @@ namespace All.WebApi.Controllers
 
         // DELETE api/values/5
         [HttpDelete("{id}")]
+        [ApiExplorerSettings(IgnoreApi = true)] //隐藏某个接口
         public void Delete(int id)
         {
         }

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>All.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:All.WebApi.CustomServiceProvider">
+            <summary>
+            自定义服务容器实例
+            </summary>
+        </member>
+        <member name="T:All.WebApi.Filter.ApiLogFilter">
+            <summary>
+            全局过滤器记录消息
+            </summary>
+        </member>
+        <member name="P:All.WebApi.Filter.ApiLogFilter.ActionArguments">
+            <summary>
+            参数
+            </summary>
+        </member>
+        <member name="P:All.WebApi.Filter.ApiLogFilter.Stopwatch">
+            <summary>
+            计时器
+            </summary>
+        </member>
+        <member name="P:All.WebApi.Filter.ApiLogFilter.LogFlag">
+            <summary>
+            方法名称
+            </summary>
+        </member>
+        <member name="P:All.WebApi.Filter.ApiLogFilter.IsSwitch">
+            <summary>
+            是否开启日志打印
+            </summary>
+        </member>
+        <member name="M:All.WebApi.Filter.ApiLogFilter.OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext)">
+            <summary>
+            OnActionExecuted 在执行操作方法之后由 core 框架调用
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="T:All.WebApi.Filter.UnAuthApi">
+            <summary>
+            全局过滤器或者中间件过滤某个Action
+            目的：如果是授权后不需要验证签名，才加这个
+            </summary>
+        </member>
+        <member name="P:All.WebApi.Filter.UnAuthApi.Message">
+            <summary>
+            消息
+            </summary>
+        </member>
+        <member name="P:All.WebApi.Filter.UnAuthApi.IsAuth">
+            <summary>
+            是否授权
+            </summary>
+        </member>
+        <member name="T:All.WebApi.MiddleWare.ApiSecurityMiddleWare">
+            <summary>
+            Api签名验证中间件
+            </summary>
+        </member>
+        <member name="F:All.WebApi.Startup.ApiName">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="T:All.WebApi.Swagger.CustomApiVersion">
+            <summary>
+            API版本号
+            </summary>
+        </member>
+        <member name="T:All.WebApi.Swagger.CustomApiVersion.Version">
+            <summary>
+            Api接口版本 自定义
+            </summary>
+        </member>
+        <member name="F:All.WebApi.Swagger.CustomApiVersion.Version.v1">
+            <summary>
+            v1 版本
+            </summary>
+        </member>
+        <member name="F:All.WebApi.Swagger.CustomApiVersion.Version.v2">
+            <summary>
+            v2 版本
+            </summary>
+        </member>
+        <member name="T:All.WebApi.Swagger.CustomRoute">
+            <summary>
+            自定义路由 /api/{version}/[controler]/[action]
+            </summary>
+        </member>
+        <member name="P:All.WebApi.Swagger.CustomRoute.GroupName">
+            <summary>
+            分组名称,是来实现接口 IApiDescriptionGroupNameProvider
+            </summary>
+        </member>
+        <member name="M:All.WebApi.Swagger.CustomRoute.#ctor(System.String)">
+            <summary>
+            自定义路由构造函数，继承基类路由
+            </summary>
+            <param name="actionName"></param>
+        </member>
+        <member name="M:All.WebApi.Swagger.CustomRoute.#ctor(System.Version,System.String)">
+            <summary>
+            自定义版本+路由构造函数，继承基类路由
+            </summary>
+            <param name="actionName"></param>
+            <param name="version"></param>
+        </member>
+    </members>
+</doc>

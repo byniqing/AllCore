@@ -3,7 +3,6 @@ C:\study\core\All.WebApi\bin\Debug\netcoreapp2.2\All.WebApi.runtimeconfig.json
 C:\study\core\All.WebApi\bin\Debug\netcoreapp2.2\All.WebApi.runtimeconfig.dev.json
 C:\study\core\All.WebApi\bin\Debug\netcoreapp2.2\All.WebApi.dll
 C:\study\core\All.WebApi\bin\Debug\netcoreapp2.2\All.WebApi.pdb
-C:\study\core\All.WebApi\obj\Debug\netcoreapp2.2\All.WebApi.csprojAssemblyReference.cache
 C:\study\core\All.WebApi\obj\Debug\netcoreapp2.2\All.WebApi.csproj.CoreCompileInputs.cache
 C:\study\core\All.WebApi\obj\Debug\netcoreapp2.2\All.WebApi.RazorAssemblyInfo.cache
 C:\study\core\All.WebApi\obj\Debug\netcoreapp2.2\All.WebApi.RazorAssemblyInfo.cs
@@ -12,3 +11,10 @@ C:\study\core\All.WebApi\obj\Debug\netcoreapp2.2\All.WebApi.AssemblyInfo.cs
 C:\study\core\All.WebApi\obj\Debug\netcoreapp2.2\All.WebApi.RazorTargetAssemblyInfo.cache
 C:\study\core\All.WebApi\obj\Debug\netcoreapp2.2\All.WebApi.dll
 C:\study\core\All.WebApi\obj\Debug\netcoreapp2.2\All.WebApi.pdb
+C:\study\core\All.WebApi\bin\Debug\netcoreapp2.2\netcoreapp2.2\All.WebApi.deps.json
+C:\study\core\All.WebApi\bin\Debug\netcoreapp2.2\netcoreapp2.2\All.WebApi.runtimeconfig.json
+C:\study\core\All.WebApi\bin\Debug\netcoreapp2.2\netcoreapp2.2\All.WebApi.runtimeconfig.dev.json
+C:\study\core\All.WebApi\bin\Debug\netcoreapp2.2\netcoreapp2.2\All.WebApi.dll
+C:\study\core\All.WebApi\bin\Debug\netcoreapp2.2\netcoreapp2.2\All.WebApi.pdb
+C:\study\core\All.WebApi\bin\Debug\netcoreapp2.2\netcoreapp2.2\All.WebApi.xml
+C:\study\core\All.WebApi\obj\Debug\netcoreapp2.2\All.WebApi.csprojAssemblyReference.cache
