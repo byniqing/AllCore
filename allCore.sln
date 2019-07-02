@@ -25,8 +25,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All.Infrastructure", "All.I
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1-Data", "4.1-Data", "{47BDCA50-2EDB-47F2-80DD-FCBF204B0FBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All.Common", "All.Common\All.Common.csproj", "{51877DD6-A1B7-4D98-91BE-1E1C398082AB}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2-Common", "4.2-Common", "{39D87EEF-CD54-49BF-88F4-F54DF852C614}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All.Common.RabbitMQ", "All.Common.RabbitMQ\All.Common.RabbitMQ.csproj", "{B63A2742-F47E-485A-8F4E-159D637DB030}"
